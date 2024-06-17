@@ -1,20 +1,16 @@
-# WeatherMagic 🌦️
+# weather_app
 
-Welcome to WeatherMagic, your go-to app for weather updates with a touch of magic! ☀️🌧️🌈
+A new Flutter project.
 
-## Features
-- Animated text for a delightful experience
-- Real-time weather updates
-- User-friendly interface
+## Getting Started
 
-## Get Started
-1. Clone the repository.
-2. Open the project in your Flutter IDE.
-3. Run the app on your device or simulator.
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Support
-For any issues or questions, contact bawanisandunika51@gmail.com.
-
-Let's make weather updates magical! ✨
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
